@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Purv Patel  
 
 ## 🚀 About Me  
-- 🎓 I’m a student at JG University (Semester 4)  
+- 🎓 I’m a student at SVGU University (Semester 5)  
 - 💻 I’m passionate about **Web Development, Programming, and AI Tools**  
 - 📚 Currently learning **Java, Python, and ASP.NET**  
 - 🎯 Goal: To build professional projects and contribute to open-source  
